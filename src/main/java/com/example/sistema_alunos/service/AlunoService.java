@@ -27,7 +27,7 @@ public class AlunoService {
         return repository.save(aluno);
     }
 
-    public void exccluir(Long id) {
+    public void excluir(Long id) {
         repository.deleteById(id);
     }
 }
