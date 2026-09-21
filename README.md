@@ -1,5 +1,3 @@
-This project aims to create a student registration system using Java. It allows users to register and manage student information through a simple and organized system.
-
 ## How to Run
 
 1. Clone this repository.
